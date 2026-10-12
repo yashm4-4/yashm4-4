@@ -17,6 +17,7 @@ I led the computational research and created the approved NIH poster as its firs
 [**View the approved research poster (PDF)**](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster/blob/main/NIH_AlphaGenome_Poster_Yash_Maheshwaran.pdf) · [Project overview and contributions](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster)
 
 **[Protein Machine Learning & Scientific Engineering | Augment Biologics](https://github.com/yashm4-4/yashm4-4/blob/main/research/augment-overview.md)**
+
 Developed ESM2 (650M) fine-tuning workflows using PyTorch and LoRA for antibody glycosylation prediction. Conducted **70+ model runs** using protein-disjoint evaluation and optimized inference costs by approximately **5.5×** for the longest inputs. Engineered scalable **Rosetta ΔΔG screening workflows for 25,000+ antibody Fc variants** using Modal and AWS S3.
 
 [**Read Technical Case Study →**](https://github.com/yashm4-4/yashm4-4/blob/main/research/augment-overview.md)
