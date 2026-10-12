@@ -33,7 +33,7 @@ Developed ESM2 (650M) fine-tuning workflows using PyTorch and LoRA for antibody 
 | --- | --- |
 | [Visual Field Progression Modeling](https://github.com/yashm4-4/visual-field-progression-modeling) | Collaborative biomedical ML project investigating glaucoma progression. My contributions focused on gradient boosting, longitudinal feature engineering, and spatial coordinate handling. |
 | [Lennard–Jones Metropolis Simulation](https://github.com/yashm4-4/msse272-project2-lj-metropolis) | Molecular simulation and Monte Carlo sampling in Python and C++, with reproducible runs and visualization. |
-| [Metabolic Network Graph Algorithms](https://github.com/yashm4-4/graph-algorithms-metabolic-networks) | Collaborative project applying max-flow/min-cut methods to a simplified glycolysis network. |
+| [Metabolic Network Graph Algorithms](https://github.com/yashm4-4/metabolic-network-analysis) | Collaborative project applying max-flow/min-cut methods to a simplified glycolysis network. |
 
 ### Tools I use
 
