@@ -12,9 +12,11 @@ I hold an **MS in Molecular Science and Software Engineering from UC Berkeley** 
 ### Featured research
 
 **[Regulatory Variant Modeling with AlphaGenome | NIH / National Library of Medicine](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster)**  
-Co-authored an approved research poster describing a CNN-based K562 enhancer classifier, comparison of regulatory variant-effect predictions with independent reporter assays, and integration of RNA and gene-link evidence to prioritize candidate variant-to-gene relationships. [Explore the research overview](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster).
+I led the computational research and created the approved NIH poster as its first author. The work combines CNN-based K562 enhancer classification, independent reporter-assay comparisons, and RNA/eQTL/chromatin evidence to prioritize candidate variant-to-gene relationships. A **first-author manuscript is in preparation**.
 
-*My work at NIH and Augment Biologics includes ongoing institutional and proprietary research. Underlying code and data are not publicly available; this profile features approved research materials and selected academic projects.*
+[**View the approved research poster (PDF)**](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster/blob/main/NIH_AlphaGenome_Poster_Yash_Maheshwaran.pdf) · [Project overview and contributions](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster)
+
+*My current NIH and Augment Biologics research includes ongoing institutional and proprietary work; the underlying code and data are not public. This profile features approved research materials and selected academic projects.*
 
 ### Selected public projects
 
