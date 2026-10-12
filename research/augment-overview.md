@@ -1,51 +1,73 @@
-Protein Machine Learning & Scientific Engineering
 
-Augment Biologics | Applied Machine Learning Researcher / Consultant
+# Protein Machine Learning & Scientific Engineering
 
-My work at Augment Biologics focuses on developing machine learning and scientific computing workflows for protein engineering. I have worked across protein language model adaptation, evaluation design, inference optimization, and scalable molecular modeling infrastructure.
+**Augment Biologics | Applied Machine Learning Researcher / Consultant**  
+*December 2025 – Present*
 
-1. Protein Language Models for Antibody Glycosylation Prediction
+My work at Augment Biologics focuses on developing machine learning and computational modeling workflows for protein engineering. I have contributed to protein language model adaptation, rigorous evaluation, inference optimization, and scalable molecular modeling infrastructure, with an emphasis on building computational tools that are both scientifically reliable and practical for research applications.
 
-I developed Python/PyTorch workflows to fine-tune ESM2 (650M) using Low-Rank Adaptation (LoRA) for antibody glycosylation prediction.
+---
 
-My contributions included:
+## 1. Protein Language Models for Antibody Glycosylation Prediction
 
-Developing training and inference workflows for protein sequence modeling.
+**Objective:** Adapt pretrained protein language models for antibody glycosylation prediction while improving model generalization and computational efficiency.
 
-Designing protein-disjoint data splits and held-out evaluations to assess generalization.
+I developed Python/PyTorch workflows for fine-tuning **ESM2 (650M)** using **Low-Rank Adaptation (LoRA)**.
 
-Conducting 70+ model runs to compare configurations and investigate model performance.
+### Key Contributions
 
-Optimizing sequence context to achieve comparable predictive performance at approximately 5.5× lower inference cost for the longest tested sequences.
+- Developed training and inference pipelines for protein sequence modeling and glycosylation prediction.
+- Designed **protein-disjoint data splits** and held-out evaluation procedures to reduce the risk of data leakage and assess generalization.
+- Conducted **70+ model runs** to compare configurations, investigate validation behavior, and evaluate predictive performance.
+- Optimized site-centered sequence context, achieving comparable predictive performance at approximately **5.5× lower inference cost** for the longest tested sequences.
+- Supported systematic model comparison and evaluation to inform downstream protein-variant prioritization.
 
-This work strengthened my experience in protein representation learning, parameter-efficient fine-tuning, rigorous model evaluation, and computational efficiency.
+### Technical Focus
 
-2. Scalable Molecular Modeling with Rosetta
+`Python` `PyTorch` `ESM2` `LoRA` `Protein Language Models` `Model Evaluation` `Inference Optimization`
 
-I engineered computational screening workflows to evaluate the predicted stability effects of protein variants using Rosetta ΔΔG calculations.
+**Key Takeaway:** This work combined protein representation learning with careful experimental evaluation and computational optimization, emphasizing the importance of reliable predictions and efficient model deployment.
 
-My contributions included:
+---
 
-Developing scalable workflows for screening 25,000+ antibody Fc variants.
+## 2. Scalable Molecular Modeling with Rosetta
 
-Adapting computational modeling workflows for cloud execution using Modal and AWS S3.
+**Objective:** Develop reliable computational infrastructure for evaluating protein variants using Rosetta-based stability calculations.
 
-Implementing reproducible batch processing, result organization, and failure-recovery mechanisms.
+I engineered high-throughput molecular modeling workflows capable of screening **25,000+ antibody Fc variants**.
 
-Improving workflow reliability to support downstream analysis by research collaborators.
+### Key Contributions
 
-This work involved connecting molecular modeling methods with the software infrastructure needed to execute computational experiments at scale.
+- Developed Python-based workflows for evaluating predicted protein stability changes using **Rosetta ΔΔG calculations**.
+- Adapted molecular modeling pipelines for scalable cloud execution using **Modal** and **AWS S3**.
+- Implemented reproducible batch processing and automated failure-recovery mechanisms.
+- Organized computational results for downstream analysis and interpretation by research collaborators.
+- Improved workflow reliability and reduced the need for manual intervention during large-scale screening.
 
-Technical Skills
+### Technical Focus
 
-Protein Machine Learning: PyTorch, ESM2, LoRA, protein sequence modeling, model evaluation, inference optimization
+`Python` `Rosetta` `Protein Stability` `Molecular Modeling` `Modal` `AWS S3` `Cloud Computing` `Workflow Automation`
 
-Molecular Modeling: Rosetta ΔΔG, protein stability prediction, computational variant screening
+**Key Takeaway:** This work strengthened my experience translating computational molecular modeling methods into scalable scientific software that supports protein engineering research.
 
-Scientific Software Engineering: Python, Linux, Modal, AWS S3, reproducible workflows, cloud computing, batch processing
+---
 
-Research Availability
+## 3. Research & Engineering Approach
 
-This page summarizes my individual technical contributions at Augment Biologics. The underlying company source code, datasets, model weights, proprietary protein designs, internal configurations, and unpublished experimental results are not publicly available.
+Across these projects, I have focused on three complementary aspects of computational research:
 
-The reported results describe computational modeling and engineering work, not independent experimental validation of the screened designs.
+1. **Biological relevance:** Connecting computational modeling approaches to meaningful protein engineering questions.
+2. **Scientific rigor:** Designing evaluations that distinguish genuine predictive improvements from artifacts of data partitioning or experimental setup.
+3. **Engineering reliability:** Building reproducible, computationally efficient workflows that can support large-scale research applications.
+
+My broader interests lie at the intersection of protein representation learning, computational molecular design, and scientific software engineering.
+
+---
+
+## Research Availability
+
+This page summarizes my individual technical contributions at Augment Biologics.
+
+The underlying company source code, datasets, model weights, proprietary protein designs, internal configurations, and unpublished experimental results are not publicly available.
+
+The results described here concern computational modeling and engineering. They do not imply independent experimental validation of the screened protein designs.
