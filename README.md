@@ -9,6 +9,13 @@ I hold an **MS in Molecular Science and Software Engineering from UC Berkeley** 
 - **NIH / National Library of Medicine:** Deep learning for regulatory genomics, enhancer prediction, and interpretation of noncoding genetic variants.
 - **Augment Biologics:** Protein language models, antibody glycosylation prediction, Rosetta-based molecular modeling, and scalable computational workflows.
 
+### Featured research
+
+**[Regulatory Variant Modeling with AlphaGenome | NIH / National Library of Medicine](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster)**  
+Co-authored an approved research poster describing a CNN-based K562 enhancer classifier, comparison of regulatory variant-effect predictions with independent reporter assays, and integration of RNA and gene-link evidence to prioritize candidate variant-to-gene relationships. [Explore the research overview](https://github.com/yashm4-4/nih-alphagenome-regulatory-variants-poster).
+
+*My work at NIH and Augment Biologics includes ongoing institutional and proprietary research. Underlying code and data are not publicly available; this profile features approved research materials and selected academic projects.*
+
 ### Selected public projects
 
 | Project | Focus |
@@ -30,4 +37,3 @@ Computational drug discovery · Protein design · Cellular reprogramming · Agin
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/yash-maheshwaran)
 
-*Professional research descriptions here are high-level; collaborative projects remain credited to their teams, and private research code and data are not shared.*
